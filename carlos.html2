@@ -1,0 +1,81 @@
+<!doctype htlm>
+
+<htlm lang=en>
+
+<header>
+
+<h1>Carlos Palacios</h1>
+
+<nav>
+
+<a href="sport.html"><sport</a>
+
+<a href="Tv shows.Tv shows.html"><Tv shows></a>
+
+<a href="soccer.html">soccer</a>
+
+<a href="football">football</a>
+
+<a href="church.html">church</a>
+
+</nav>
+
+</header>
+
+<section>
+
+<h2>favorite foods</h2>
+
+<ul>
+
+<li>metaballs</li>
+
+<li>potatoes</li>
+
+<li>hamburgers</li>
+
+<li>banana's</li>
+
+</ul>
+
+</section>
+
+<section>
+
+<h2>Achievements</h2>
+
+<p>progress in this course (100%)<progress value="1"></progress><br/>
+
+progress in the specialization capstone(20%)<progress value="20" max="100"></progress><br/>
+
+Progress in life goals (40%)<progress value="40" max="100"></progress></p>
+
+</section>
+
+<section>
+
+<h2>More about me</h2>
+
+<details open>
+
+<summary>My Childhood</summary>
+
+<p>Hey,I'm Carlos Palacios,I'm studying code and learning English. I'm very happy to be doing this.I'm 19 years old,almost 20.</p>
+
+</details>
+
+</section>
+
+<footer>
+
+<p>
+
+<img src="http://www.intro-webdesign.com/images/newlogo.png" alt="new logo">
+
+This page was created by Carlos Palacios &amp; Colleen van Lent. To learn more about web design, visit
+
+<a href="http://www.intro-webdesign.com">Intro to Web Design</a>
+
+</p>
+
+</footer>
